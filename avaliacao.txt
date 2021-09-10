@@ -1,0 +1,16 @@
+AVALIAÇÃO
+-----------
+
+T01 ( 2.0 pts )
+
+Nota..... 0.25 pts
+
+O Diagrama de Casos de uso está incompleto. Era esperado as demais associações com outros casos de uso do projeto. 
+O Descritivo de Caos de uso tinha os descritivo de Casos de Uso que não aparecem no diagram de Casos de Uso. Não foram descritos os Caso de Uso:
+
+	(a) comprar bilhetes pela Internet (mais seus casos de uso associados),
+	(b) devolver bilhetes (mais os seus casos de uso associados),
+	(c) trocar o dono do bilhete (mais os seus casos de uso associados),
+
+Os diagramas de sequencia não foram entregues.
+
