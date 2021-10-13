@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    width: 100%;
+}
+
+h2 {
+    margin: 30px 0 45px 0;
+    font-size: 45px;
+}
+
+.right-content-details h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h2 span {
+    font-weight: bold;
+    color: #fb0;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.main-container {
+    width: 100%;
+}
+
+footer {
+    border-top: solid 1px #e0e0e0;
+    padding: 20px 0;
+    margin-top: 80px;
+}
+
+footer img {
+    padding: 10px 0;
+}
+
+footer p {
+    margin: 10px 0;
+    color: #363636;
+    text-align: center;
+}
+
+.copyright-text {
+    text-align: center;
+}
+
+header {
+    padding: 25px;
+}
+
+.logo {
+    width: 252px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.banner {
+    border-top: solid 1px #e2e2e2;
+    margin-bottom: 30px;
+}
+
+.menu-main-menu-container ul {
+    float: right;
+    margin-top: 9px;
+}
+
+.menu-main-menu-container ul li {
+    float: left;
+}
+
+.menu-main-menu-container ul li a {
+    padding: 10px 15px;
+    color: #222;
+    font-size: .9375rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .2px;
+}
+
+.evento-image img {
+    border-radius: 5px;
+}
+
+.evento-wapper {
+    width: 90%;
+    margin: -80px 20px 0;
+    position: relative;
+    float: left;
+    padding: 20px;
+    background: #fff;
+    border-top: solid 3px #fb0;
+    border-radius: 5px;
+}
+
+.evento-wapper h3 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.evento-wapper .evento-categoria {
+    background-color: #fb0;
+    padding: 7px 20px;
+    border-radius: 25px;
+    float: left;
+    color: #fff;
+    text-align: center;
+}
+
+.evento-wapper .evento-data {
+    clear: both;
+    font-size: 15px;
+    padding: 10px 0;
+}
+
+.evento-wapper .evento-conteudo {    
+    width: 100%;
+    padding-top: 10px;
+    clear: both;
+}
+
+.evento-wapper .evento-valor {
+    float: left;
+    width: 100%;
+}
+
+.evento-wapper .evento-valor .evento-preco,
+.evento-wapper .evento-valor .evento-comprar {
+    width: 50%;
+    float: left;
+}
+
+.evento-wapper .evento-valor .evento-preco {    
+    text-align: left;
+    padding: 7px 0;
+}
+
+.evento-wapper .evento-valor .evento-comprar {
+    text-align: right;
+}
+
+.evento-detalhes .btn {
+    float: right;
+}
+
+.table-carrinho-compra {
+    width:100%;
+}
+
+.table-carrinho-compra tr td {
+    border: solid 1px #dbdbdb;
+    padding: 10px;
+}
+
+.cartao-credito {
+    width: 100%;
+}
+
+select {
+    padding: 10px
+}
+
+input {
+    padding: 5px;
+}
+
+input, select {
+    width: 100%;
+}
+
+.btn-comprar {
+    width: 200px;
+    padding: 15px;
+    text-align: center;
+}
+
+.cartao-credito input {
+    text-transform: uppercase;
+}
+
+.errors {
+    border: solid 1px #a12020;
+    background-color: #ffb4b4;
+    padding: 15px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.errors ul {
+    margin: 0;
+}
+
+.errors ul li {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+.separador {
+    border-top: dashed 1px #a8a8a8;
+    margin: 50px 0 0 0;
+    padding: 50px 0 0 0;
+}
+
+.evento-image {
+    height: 265px;
+}
+
+.evento-image img {
+    height: 250px;
+}
+
+.minhas-compras th.center {
+    text-align: center;
+}
