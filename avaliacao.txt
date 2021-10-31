@@ -23,10 +23,18 @@ O diagrama da arquitetura lógica ficou idêntico ao de arquitetura física, som
 
 ============================================================================================================================================
 
-
 T-03 ( 2.0 pontos )
 
 Nota: 2.0 pts
 
 ============================================================================================================================================
 
+T-04 ( 2.0 pontos )
+
+Nota: 0.5 pts
+
+O Diagrama de Casos de Uso deveria ser a versao entrega no T-01 com as atualizacoes para as questoes de "clientes fidelizados"
+somente 1 diagrama de sequencia foi entregue
+somente 1 descricao de Caso de Uso foi entregue
+
+============================================================================================================================================
